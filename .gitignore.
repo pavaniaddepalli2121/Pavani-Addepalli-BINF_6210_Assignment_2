@@ -1,0 +1,23 @@
+# Ignore RStudio project files
+.Rproj.user/
+
+# Ignore .Rhistory and .RData files
+.Rhistory
+.RData
+
+# Ignore temporary files created by R
+*.Rtmp*
+*.Rtmp*
+*.RData
+
+# Ignore directories used by git, such as `.git` folder
+.git/
+
+# Ignore data files
+*.csv
+*.xlsx
+*.dat
+
+# Ignore any system-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
